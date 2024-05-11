@@ -5,9 +5,9 @@ req_extensions     = req_ext
 prompt             = no
 [ req_distinguished_name ]
 countryName                 = US
-stateOrProvinceName         = Illinois
-localityName                = Chicago
-organizationName            = HollowLabs
+stateOrProvinceName         = Verginia
+localityName                = Richmond
+organizationName            = Skunkworks
 commonName                  = Warden Controller Webhook
 [ req_ext ]
 subjectAltName = @alt_names

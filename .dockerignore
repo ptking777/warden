@@ -1,0 +1,8 @@
+# Ignore everything by default
+**
+
+# Allowed exceptions
+!./requirements.txt
+!./app
+!./certs/*.pem
+
